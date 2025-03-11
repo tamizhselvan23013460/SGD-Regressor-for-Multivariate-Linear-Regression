@@ -38,6 +38,9 @@ df['HousingPrice']=dataset.target
 print(df.head())
 ```
 
+![EX_4_OUTPUT_1](https://github.com/user-attachments/assets/00943d46-c2c3-4b99-af2d-b3e65ac213f3)
+
+
 ```
 X=df.drop(columns=['AveOccup','HousingPrice'])
 Y=df[['AveOccup','HousingPrice']]
