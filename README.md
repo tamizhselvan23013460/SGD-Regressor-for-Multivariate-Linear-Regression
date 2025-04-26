@@ -36,9 +36,6 @@ To write a program to predict the price of the house and number of occupants in 
    - Calculate and print Mean Squared Error.
    - Print sample predictions.
 
----
-
-Would you like me to also give a **tiny flowchart** for it? 🎯 (really simple one!)
 ## Program :
 ```
 /*
